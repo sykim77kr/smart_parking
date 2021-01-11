@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Parking</string>
+    <string name="model"><b>Car State :</b></string>
+    <string name="model_a">In</string>
+    <string name="model_b">Out</string>
+    <string name="mode"><b>Save Mode :</b></string>
+    <string name="train">Train</string>
+    <string name="test">Test</string>
+    <string name="cell_id"><b>&#160;&#160;&#160;Cell ID :</b></string>
+    <string name="cell_id_hint">Enter current cell ID</string>
+    <string name="set_num"><b>&#160;&#160;&#160;Number of Set :</b></string>
+    <string name="set_num_hint">How many sets you want</string>
+    <string name="accuracy"><b>&#160;&#160;&#160;Accuracy :</b></string>
+    <string name="accuracy_val">0%</string>
+    <string name="reset">reset</string>
+    <string name="query">query</string>
+    <string name="save">save</string>
+    <string name="learn">learn</string>
+    <string name="message"><b>&#160;&#160;&#160;Message :</b></string>
+</resources>
