@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Get Sensor Data</string>
+    <string name="btn_in2out"><b>In -> Out</b></string>
+    <string name="btn_out2in"><b>Out -> In</b></string>
+    <string name="btn_in"><b>In</b></string>
+    <string name="btn_out"><b>Out</b></string>
+    <string name="btn_round"><b>Round</b></string>
+    <string name="sensor_value_txt"><b>&#160;&#160;Sensor Value&#160;&#160;</b></string>
+    <string name="magnet_x_txt">&#160;&#160;Magnetic(X-axis) :&#160;</string>
+    <string name="magnet_y_txt">&#160;&#160;Magnetic(Y-axis) :&#160;</string>
+    <string name="magnet_z_txt">&#160;&#160;Magnetic(Z-axis) :&#160;</string>
+    <string name="accel_x_txt">&#160;&#160;Accel(X-axis) :&#160;</string>
+    <string name="accel_y_txt">&#160;&#160;Accel(Y-axis) :&#160;</string>
+    <string name="accel_z_txt">&#160;&#160;Accel(Z-axis) :&#160;</string>
+    <string name="orient_x_txt">&#160;&#160;Orient(X-axis) :&#160;</string>
+    <string name="orient_y_txt">&#160;&#160;Orient(Y-axis) :&#160;</string>
+    <string name="orient_z_txt">&#160;&#160;Orient(Z-axis) :&#160;</string>
+    <string name="gyro_x_txt">&#160;&#160;Gyro(X-axis) :&#160;</string>
+    <string name="gyro_y_txt">&#160;&#160;Gyro(Y-axis) :&#160;</string>
+    <string name="gyro_z_txt">&#160;&#160;Gyro(Z-axis) :&#160;</string>
+    <string name="press_txt">&#160;&#160;Pressure :&#160;</string>
+    <string name="btn_start"><b>Start</b></string>
+    <string name="btn_stop"><b>Stop</b></string>
+    <string name="file_num_txt"><b>&#160;&#160;File Number : </b></string>
+    <string name="file_num_hint">Enter the file number</string>
+</resources>
